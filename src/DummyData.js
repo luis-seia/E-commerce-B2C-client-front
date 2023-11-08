@@ -10,7 +10,7 @@ export const hero = [
         "cta": "Navegue pela nossa coleção"
     },
     {
-        "title": "fique à frente das tendências com roupas",
+        "title": "fique sempre à frente das tendências com roupas",
         "description": "Desde roupas casuais do dia a dia até vestidos para ocasiões formais, temos os estilos mais recentes para todos os gostos e ocasiões. Nossas roupas são confeccionadas com materiais de qualidade e atenção aos detalhes, garantindo que você esteja sempre no seu melhor. Compre conosco agora e fique à frente da curva.",
         "cta": "Comprar Novidades"
     }
